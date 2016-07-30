@@ -1,0 +1,39 @@
+A Cast recommendation is Phil, Grom, Wilhemena, Bradley, Tiffany
+
+B Cast would be Phil, Simon, Annie, Cassandra and Slym?
+
+New MOdel:
+
+Aspect now = Passive ability, keywords
+
+Power now = active ability, keywords
+
+Aspects and Powers have 5 keywords.
+1 is an Attribute
+2 are skill names
+2 are other
+
+If ANY Keywords match, you can sub in a keyworded skill for the genric Power Modifier
+If 2 or more Keywords match, you can sub in a keyworded Attribute for the generic Base Impact
+Any matching Keyword provides +1 to that Power's Base Impact.
+If 2 or more Keywords could be applied to a given roll, you can gain a Minor Advantage
+
+
+OG Model:
+Passives melded into Aspects
+Otherwise, exactly like Beta Test model
+
+
+Revised Model:
+OG Aspects are consolidated, Powers merged into a single pool under the consolidated Aspect
+Aspects have preferred Skills rather than Powers
+
+
+GENERAL REVISION:
+Skills are 1/2 attribute + Prof + Aspect
+Skills and Powers are only gained through Cash/Talents
+On Milestone, PC Gains new Aspect or increases Attribute by 1
+On Milestone, PC can reorder or replace Foundation
+On Milestone, Human (pure) PC can replace a Foundation that's been sold off.
+
+d.	“cross-cut” init system: Roll init, first player does a thing, who/whatever they targeted goes next, if no target you select the next person who goes.  Can use one or both on their turn.  Targeting always defaults to Complex action

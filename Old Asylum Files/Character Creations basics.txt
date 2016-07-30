@@ -1,0 +1,48 @@
+Asylum character creation:
+
+ATTRIBUTES
+- All start at 1
+- +10 points to distribute
+- Max is 5 before purchasing ASPECTS
+
+SKILLS:
+- All start at 0
+- +7 points to distribute
+- Max is 2 ("Expert") before purchasing ASPECTS
+- Skills as expert rating gain one free KNACK, record it in the KNACKS section.
+
+ASPECTS:
+- Technically, a character's RACE is an Aspect.  So everyone starts out with a free aspect
+- +10 points to buy extra aspects
+- Humans may only buy from the Human and Common Aspects lists.
+- Supernaturals may only buy from the Supernatural and Common Aspects lists
+
+HARMONY:
+- Humans start with 6, all others with 5
+- CONTRACTS reduce harmony at player and GM's discretion
+
+FOUNDATIONS:
+- 1st is most essential, 6th is least
+- All Foundations must be filled
+- Foundations are keyed to HARMONY, meaning that a Foundation with an empty HARMONY dot next to it is said to be "Threatened"
+- There are no system effects for Threatened Foundations, it's simply noted that your character is experiencing a conflict or crisis of that ethic/characteristic.
+
+CONTRACTS:
+- Supernatural characters start out with 1 Contract that reduces HARMONY.  This is why all non-humans start out with 1 less HARMONY.
+- This initial contract covers how a supernatural character came to be on Earth and/or have a human disguise
+- Otherwise, characters may trade up to 5 points of their own ASPECTS for 5 points of ASPECTS
+- Players may also trade points of HARMONY.  Every point of HARMONY buys 2 points of ASPECTS
+- Players may also go into Debt for up to 2 points of ASPECTS.  This could cover anything from cash debt to service or loyalty.
+- Debt does count toward the 5 total points, so only three more points can be traded after a debt is accepted.
+
+KNACKS:
+- Knacks are gained automatically when a skill reaches "Expert" or "Master" (2nd or 3rd) rank.
+- Only one Knack is chosen per appropriate level.
+- Occult Knacks are also known as "Spells."
+- Occult Knacks are the arcane magic of the game compared to the innate abilities and special powers covered by ASPECTS
+
+EQUIPMENT:
+- Starting Equipment is handled loosely according to the GM
+- Gear prices will be listed for GMs who wish to make players pay for Starting Equipment
+- Anything else the players wish to purchase during game should deducted from their current cash on hand
+- Assume a character has starting cash equal to their Resources or whatever makes most sense.
